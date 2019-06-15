@@ -1,3 +1,53 @@
-h2 {
-    color: red;
+#wrapped {
+
 }
+
+body {
+    background-image:url(assets/images/squares.jpeg)
+}
+
+h1{
+    background-color:teal;
+    color:white;
+    padding:10px;
+    width: 200px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#threetabs {
+    float: right;
+    display: block;
+    padding: 10px;
+    color:#777777
+    font-style:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+h1{
+    background-color:teal;
+    color:white;
+    padding:10px;
+    width: 280px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#container {
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    padding: 10px;
+    margin: 12px auto 12px auto;
+    font-style:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#777777
+    
+}
+
+.submit {
+    color: teal;
+    width: 50%;
+    border: 0px;
+    background-color: teal;
+    color: white;
+}
+
+
